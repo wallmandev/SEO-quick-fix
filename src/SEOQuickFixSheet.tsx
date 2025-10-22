@@ -251,7 +251,7 @@ const SEOQuickFixSheet = () => {
             
             <div className="px-4">
               <a
-                href="https://wallman5.gumroad.com/l/pswykb"
+                href="https://wallman5.gumroad.com/l/bvjyxr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 sm:py-6 px-8 sm:px-12 rounded-xl text-base sm:text-lg transition-all duration-200 hover:scale-105 shadow-lg active:scale-95"
