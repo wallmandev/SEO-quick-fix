@@ -256,7 +256,7 @@ const SEOQuickFixSheet = () => {
                 rel="noopener noreferrer"
                 className="inline-block w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 sm:py-6 px-8 sm:px-12 rounded-xl text-base sm:text-lg transition-all duration-200 hover:scale-105 shadow-lg active:scale-95"
               >
-                Få SEO Copy Kit → Endast 99 k
+                Få SEO Copy Kit → Endast 99 kr
               </a>
               <p className="text-xs sm:text-sm text-gray-500 mt-4 sm:mt-6">
                 Samma metoder jag använder för kunder som betalar 20 00+ kr
