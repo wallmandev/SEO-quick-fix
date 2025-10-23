@@ -259,7 +259,7 @@ const SEOQuickFixSheet = () => {
                 Få SEO Copy Kit → Endast 99 kr
               </a>
               <p className="text-xs sm:text-sm text-gray-500 mt-4 sm:mt-6">
-                Samma metoder jag använder för kunder som betalar 20 00+ kr
+                Samma metoder jag använder för kunder som betalar 20 000+ kr
               </p>
             </div>
           </div>
